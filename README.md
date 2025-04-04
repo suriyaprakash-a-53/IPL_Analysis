@@ -64,8 +64,8 @@ Power BI dashboards include:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ipl-analysis.git
-   cd ipl-analysis
+   git clone https://github.com/suriyaprakash-a-53/IPL-Analysis.git
+   cd IPL-Analysis
    ```
 
 2. Open Power BI `.pbix` file to explore dashboards.
